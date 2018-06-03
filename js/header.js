@@ -2,7 +2,6 @@
  * Controls the showing and hiding of the expandable
  * header.
  * 
- * @author Hakim El Hattab / http://hakim.se
  */
 (function(){
 	
